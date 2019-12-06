@@ -1,0 +1,96 @@
+{
+	"courses": [{
+			"id": "course1",
+			"name": "Tennis Mondays",
+			"price": 55.0,
+			"capacity": 10,
+			"startDate": "2020-01-06",
+			"location": {
+				"name": "Sportlabs Office",
+				"longitude": 0.205158,
+				"latitude": 51.418734
+			},
+			"sessions": [{
+					"id": "course1_session1",
+					"name": "Basic session",
+					"dateTime": "2020-01-06T10:00:00+0000",
+					"description": "Initial session to cover the very basics. Fun and friendly."
+				},
+				{
+					"id": "course1_session2",
+					"name": "Improving session",
+					"dateTime": "2020-01-13T10:00:00+0000",
+					"description": "Second session to inprove on the basics learned last week."
+				},
+				{
+					"id": "course1_session3",
+					"name": "Versus session",
+					"dateTime": "2020-01-20T10:00:00+0000",
+					"description": "A fun session witha competitive edge."
+				}
+			]
+		},
+		{
+			"id": "course2",
+			"name": "Tennis Tuesdays",
+			"price": 65.0,
+			"capacity": 15,
+			"startDate": "2020-01-07",
+			"location": {
+				"name": "All England Club",
+				"longitude": 0.215093,
+				"latitude": 51.433873
+			},
+			"sessions": [{
+					"id": "course2_session1",
+					"name": "Basic session",
+					"dateTime": "2020-01-07T10:00:00+0000",
+					"description": "Initial session to cover the very basics. Fun and friendly."
+				},
+				{
+					"id": "course2_session2",
+					"name": "Improving session",
+					"dateTime": "2020-01-14T10:00:00+0000",
+					"description": "Second session to inprove on the basics learned last week."
+				},
+				{
+					"id": "course2_session3",
+					"name": "Versus session",
+					"dateTime": "2020-01-21T10:00:00+0000",
+					"description": "A fun session witha competitive edge."
+				}
+			]
+		},
+		{
+			"id": "course3",
+			"name": "Tennis Fridays",
+			"price": 100.0,
+			"capacity": 15,
+			"startDate": "2020-01-10",
+			"location": {
+				"name": "South Park Gardens",
+				"longitude": 0.200346,
+				"latitude": 51.422003
+			},
+			"sessions": [{
+					"id": "course3_session1",
+					"name": "Basic session",
+					"dateTime": "2020-01-10T10:00:00+0000",
+					"description": "Initial session to cover the very basics. Fun and friendly."
+				},
+				{
+					"id": "course3_session2",
+					"name": "Improving session",
+					"dateTime": "2020-01-17T10:00:00+0000",
+					"description": "Second session to inprove on the basics learned last week."
+				},
+				{
+					"id": "course3_session3",
+					"name": "Versus session",
+					"dateTime": "2020-01-24T10:00:00+0000",
+					"description": "A fun session witha competitive edge."
+				}
+			]
+		}
+	]
+}
