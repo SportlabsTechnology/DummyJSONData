@@ -7,7 +7,7 @@
 			"startDate": "2020-01-06",
 			"location": {
 				"name": "Sportlabs Office",
-				"longitude": 0.205158,
+				"longitude": -0.205158,
 				"latitude": 51.418734
 			},
 			"sessions": [{
@@ -38,7 +38,7 @@
 			"startDate": "2020-01-07",
 			"location": {
 				"name": "All England Club",
-				"longitude": 0.215093,
+				"longitude": -0.215093,
 				"latitude": 51.433873
 			},
 			"sessions": [{
@@ -69,7 +69,7 @@
 			"startDate": "2020-01-10",
 			"location": {
 				"name": "South Park Gardens",
-				"longitude": 0.200346,
+				"longitude": -0.200346,
 				"latitude": 51.422003
 			},
 			"sessions": [{
