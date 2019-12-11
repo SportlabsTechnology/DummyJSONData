@@ -3,6 +3,7 @@
 			"id": "course1",
 			"name": "Tennis Mondays",
 			"price": 55.0,
+                        "capacity": 10,
 			"startDate": "2020-01-06",
 			"location": {
 				"name": "Sportlabs Office",
